@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TheHubWebsite/static/css/main.b8e689ef.css",
-    "main.js": "/TheHubWebsite/static/js/main.8e371e82.js",
+    "main.js": "/TheHubWebsite/static/js/main.a3748be4.js",
     "static/media/hero-bg.jpg": "/TheHubWebsite/static/media/hero-bg.fcfb79c2d51ffb7c87ea.jpg",
     "static/media/services.jpg": "/TheHubWebsite/static/media/services.8857e1ea340d83504cef.jpg",
     "static/media/about.jpg": "/TheHubWebsite/static/media/about.5d88934d77b93ddba966.jpg",
@@ -34,10 +34,10 @@
     "static/media/black_small_logo.png": "/TheHubWebsite/static/media/black_small_logo.609569a30a1b7023ddb8.png",
     "index.html": "/TheHubWebsite/index.html",
     "main.b8e689ef.css.map": "/TheHubWebsite/static/css/main.b8e689ef.css.map",
-    "main.8e371e82.js.map": "/TheHubWebsite/static/js/main.8e371e82.js.map"
+    "main.a3748be4.js.map": "/TheHubWebsite/static/js/main.a3748be4.js.map"
   },
   "entrypoints": [
     "static/css/main.b8e689ef.css",
-    "static/js/main.8e371e82.js"
+    "static/js/main.a3748be4.js"
   ]
 }

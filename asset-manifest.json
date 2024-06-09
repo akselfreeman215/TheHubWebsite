@@ -1,18 +1,15 @@
 {
   "files": {
     "main.css": "/TheHubWebsite/static/css/main.b8e689ef.css",
-    "main.js": "/TheHubWebsite/static/js/main.1575e206.js",
+    "main.js": "/TheHubWebsite/static/js/main.6163fc76.js",
     "static/media/hero-bg.jpg": "/TheHubWebsite/static/media/hero-bg.fcfb79c2d51ffb7c87ea.jpg",
     "static/media/services.jpg": "/TheHubWebsite/static/media/services.8857e1ea340d83504cef.jpg",
     "static/media/about.jpg": "/TheHubWebsite/static/media/about.5d88934d77b93ddba966.jpg",
     "static/media/footer-bg.jpg": "/TheHubWebsite/static/media/footer-bg.e95672b6653c5cf248c7.jpg",
-    "static/media/testimonials-1.jpg": "/TheHubWebsite/static/media/testimonials-1.d67f3843619d75c34cb4.jpg",
     "static/media/boxicons.svg": "/TheHubWebsite/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
     "static/media/boxicons.eot": "/TheHubWebsite/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
-    "static/media/client-1.png": "/TheHubWebsite/static/media/client-1.dbf39c2272472364979e.png",
     "static/media/boxicons.woff": "/TheHubWebsite/static/media/boxicons.d12afc36557395143e4b.woff",
     "static/media/boxicons.ttf": "/TheHubWebsite/static/media/boxicons.db9ddb1898dbd76badca.ttf",
-    "static/media/client-4.png": "/TheHubWebsite/static/media/client-4.0c2e1c1c8faec7beaba7.png",
     "static/media/logo.png": "/TheHubWebsite/static/media/logo.788217e4a7939987945e.png",
     "static/media/bootstrap-icons.woff?": "/TheHubWebsite/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/TheHubWebsite/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
@@ -21,23 +18,20 @@
     "static/media/train-2.jpg": "/TheHubWebsite/static/media/train-2.2585093c225a95c82457.jpg",
     "static/media/train-1.jpg": "/TheHubWebsite/static/media/train-1.d102aaafb55576e21a9d.jpg",
     "static/media/testimonials-bg.jpg": "/TheHubWebsite/static/media/testimonials-bg.4d1fc65833db97fc3f6c.jpg",
-    "static/media/client-2.png": "/TheHubWebsite/static/media/client-2.76a217a6e9b075e04fa2.png",
-    "static/media/testimonials-4.jpg": "/TheHubWebsite/static/media/testimonials-4.5dfff276fb4cac36f9ab.jpg",
     "static/media/team-2.jpg": "/TheHubWebsite/static/media/team-2.f0c531a0d4166f9c2347.jpg",
+    "static/media/testimonials-2.jpg": "/TheHubWebsite/static/media/testimonials-2.4b41e5c09698f7f4f9f9.jpg",
     "static/media/team-3.jpg": "/TheHubWebsite/static/media/team-3.411379639b72f4e9994e.jpg",
-    "static/media/testimonials-2.jpg": "/TheHubWebsite/static/media/testimonials-2.6e297fa68ff72dde6d19.jpg",
-    "static/media/client-5.png": "/TheHubWebsite/static/media/client-5.f7fa91a604349a592533.png",
-    "static/media/client-3.png": "/TheHubWebsite/static/media/client-3.8b5fcfcecf49e35868be.png",
-    "static/media/testimonials-5.jpg": "/TheHubWebsite/static/media/testimonials-5.1f1742eeecc59d98e098.jpg",
-    "static/media/testimonials-3.jpg": "/TheHubWebsite/static/media/testimonials-3.d3de55de7ce98b45e3e8.jpg",
-    "static/media/client-6.png": "/TheHubWebsite/static/media/client-6.19123d3c1b54fb34e821.png",
+    "static/media/testimonials-1.jpg": "/TheHubWebsite/static/media/testimonials-1.54f2a70e2804cdf6f09d.jpg",
+    "static/media/testimonials-5.jpg": "/TheHubWebsite/static/media/testimonials-5.8732aa377888dc5873fb.jpg",
+    "static/media/testimonials-4.jpg": "/TheHubWebsite/static/media/testimonials-4.58081dc8c31bc0e1cb6c.jpg",
     "static/media/black_small_logo.png": "/TheHubWebsite/static/media/black_small_logo.609569a30a1b7023ddb8.png",
+    "static/media/testimonials-3.jpg": "/TheHubWebsite/static/media/testimonials-3.bec51ce16f238c7ec7b1.jpg",
     "index.html": "/TheHubWebsite/index.html",
     "main.b8e689ef.css.map": "/TheHubWebsite/static/css/main.b8e689ef.css.map",
-    "main.1575e206.js.map": "/TheHubWebsite/static/js/main.1575e206.js.map"
+    "main.6163fc76.js.map": "/TheHubWebsite/static/js/main.6163fc76.js.map"
   },
   "entrypoints": [
     "static/css/main.b8e689ef.css",
-    "static/js/main.1575e206.js"
+    "static/js/main.6163fc76.js"
   ]
 }
